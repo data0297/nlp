@@ -1,0 +1,11 @@
+---
+/* This front matter is required for Jekyll to process the file. */
+---
+
+/* Import the default theme's styles. */
+@import "{{ site.theme }}";
+
+/* Override the default font-size. */
+body {
+  font-size: 115%; /* Increase default font size by 15% */
+} 
