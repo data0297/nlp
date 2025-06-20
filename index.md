@@ -3,7 +3,7 @@
 **Instructor:** [Shuo Zhang](https://as.tufts.edu/dataanalytics/people/faculty/shuo-zhang)  
 **Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
 **Time:** Mondays 6:00–9:00pm  
-**Location:** Tisch Library 316
+**Location:** Tisch Library 316   
 **Office Hours:** Mondays 5:00–6:00pm (JCC 525) or by appointment
 
 ---
