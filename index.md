@@ -1,6 +1,6 @@
 # DATA0297: Natural Language Processing (Fall 2025)
 
-**Instructor:** [Shuo Zhang](https://as.tufts.edu/dataanalytics/people/faculty/shuo-zhang)  
+**Instructor:** [Shuo Zhang](https://as.tufts.edu/dataanalytics/people/faculty/shuo-zhang), Ph.D, Professor of the Practice, Data Analytics, Tufts University     
 **Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
 **Time:** Mondays 6:00–9:00pm  
 **Location:** Tisch Library 316   
