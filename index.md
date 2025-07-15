@@ -41,18 +41,19 @@ Prerequisites: proficient in python coding; familiarity with probability, linear
 
 ## Resources
 
-- [Course Syllabus (PDF)](https://shuozio.notion.site/Syllabus-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e)
-- [Textbook: Speech and Language Processing (Jurafsky & Martin)](https://web.stanford.edu/~jurafsky/slp3/)
-- [Course Piazza](https://piazza.com/tufts/spring2024/data0297)
+- [Course Syllabus (PDF)](DATA0297_syllabus_NLP.pdf) 
+- [Textbook: Speech and Language Processing (Jurafsky & Martin)](https://web.stanford.edu/~jurafsky/slp3/ed3book_Jan25.pdf)
+- [Course Canvas](https://canvas.tufts.edu/courses/67839)
 - [Course GitHub](https://github.com/data0297/nlp)
+
 
 ---
 
 ## Announcements
 
-> **Jan 22:** Welcome to DATA0297! Please read the [syllabus]() 
+> **July 14:** Welcome to DATA0297! Please read the syllabus.
 > 
-> **Feb 12:** Final project rules. Submit via [here](final-proj.md).
+> **July 15:** Final project rules posted [here](final-proj.md).
 
 
 ---
