@@ -36,14 +36,6 @@ Prerequisites: proficient in python coding; familiarity with probability, linear
 | **Apr 22** | **Ethics, Fairness in NLP**                 | [Slides](https://shuozio.notion.site/Ethics-Fairness-4-22-24-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) | [Blodgett et al. 2020](https://aclanthology.org/2020.acl-main.485/)      |                 |              |
 | **Apr 29** | **Project Presentations**                   |                                                                                    |                                                                          | Project Due     |              |
 
----
-
-## Assignments
-
-- **HW1:** Text Classification (Out Jan 29, Due Feb 12)
-- **HW2:** Sequence Labeling (Out Feb 26, Due Mar 11)
-- **HW3:** Dependency Parsing (Out Mar 25, Due Apr 8)
-- **Project:** Final Project (Due Apr 29)
 
 ---
 
@@ -58,13 +50,10 @@ Prerequisites: proficient in python coding; familiarity with probability, linear
 
 ## Announcements
 
-> **Jan 22:** Welcome to DATA0297! Please read the [syllabus](https://shuozio.notion.site/Syllabus-2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e) and join [Piazza](https://piazza.com/tufts/spring2024/data0297).
+> **Jan 22:** Welcome to DATA0297! Please read the [syllabus]() 
 > 
-> **Feb 12:** HW1 is due today. Submit via [Gradescope](https://www.gradescope.com/).
-> 
-> **Mar 11:** HW2 is due today. Submit via [Gradescope](https://www.gradescope.com/).
-> 
-> **Apr 8:** HW3 is due today. Submit via [Gradescope](https://www.gradescope.com/).
+> **Feb 12:** Final project rules. Submit via [here](final-proj.md).
+
 
 ---
 
