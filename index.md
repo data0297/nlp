@@ -22,6 +22,8 @@
 > **July 15:** Final project rules posted [here](final-proj.md).
 >
 > **July 14:** Welcome to DATA0297! Full syllabus PDF available below.
+>
+
 ---
 
 ## Course Intro
