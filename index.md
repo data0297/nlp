@@ -7,9 +7,20 @@
 **Location:** Tisch Library 316, Medford campus, Tufts University      
 **Office Hours:** Mondays 5:00–6:00pm (JCC 525) or by appointment (Zoom)
 
-```
-Note: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below. 
-```
+---
+
+## Announcements
+
+> **[Note on this website]**: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
+> 
+> **[Notes on Slides]:** Slides links will be updated throughout the term.
+> 
+> **Aug 1:** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
+>
+> 
+> **July 14:** Welcome to DATA0297! Please read the syllabus.
+> 
+> **July 15:** Final project rules posted [here](final-proj.md).
 
 ---
 
@@ -57,22 +68,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 - [Course GitHub](https://github.com/data0297/nlp)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
 
----
 
-## Announcements
-
-> **[Notes on Slides]:** Slides links will be updated throughout the term.
-> 
-> **Aug 1:** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
->
-> 
-> **July 14:** Welcome to DATA0297! Please read the syllabus.
-> 
-> **July 15:** Final project rules posted [here](final-proj.md).
 
 
 ---
-
-## Contact
-
-For questions, email [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu) or visit during office hours. 
