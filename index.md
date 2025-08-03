@@ -17,7 +17,7 @@
 > 
 > **[Notes on Slides]:** Slides links will be updated throughout the term.
 > 
-> **Aug 1:** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
+> **[Notes on homework]** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
 >
 > 
 > 
@@ -33,7 +33,7 @@
 
 
 ---
-## Course Intro (click below to expand)
+## Course Info (click below to expand)
 <details>
 <summary> Course description </summary>
 NLP is now at the center of AI, data science and data analytics. There is a wealth of textual data online. NLP-enabled products constitute an essential part of everyday life, both in consumer facing products (Siri, Alexa, ChatGPT, Google Translate, etc.) and B2B applications (e.g., NLP for medical and legal domains). However, understanding human languages and extracting structured information from this plethora of unstructured text data is a major challenge for computers. The recent advancement in machine learning and deep learning makes NLP one of the fastest growing fields in AI and data science. In this course, we will survey machine learning (ML) based NLP techniques from statistical ML approaches to the state-of-the-art (SOTA) deep learning models and Large Language Models (LLMs), with a focus on building a solid understanding of the history and theory of NLP that led to the current LLMs. Students will read the latest research papers, implement NLP algorithms or train/fine-tune deep learning/LLM models for a variety of NLP tasks, as well as completing a final project and research paper on a topic of their interest.
