@@ -1,4 +1,4 @@
-# DATA0297: Natural Language Processing (Fall 2025)
+# DATA0297: Deep Learning for Multimodal AI (Spring 2025)
 
 **Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
 **Industry Advisor:** Jeanie Cherng, Ph.D    
