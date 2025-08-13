@@ -66,7 +66,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 | **Nov 10** | **Large Language Models (LLM)** | [slides] |     SLP3: Chapter 10       |        HW11.1 out         |            |
 | **Nov 17** | **BERT, GPT, T5**                      | [Slides] | SLP3:Chapter 11             |     ```HW11.1 due```  |              |
 | **Nov 24**  | **SOTA LLMs and AI agents**                     | [Slides] | SLP3: Chapter 12               |                 |              |
-| **Dec 1**  | **Industry Speaker**; ```guest lecturer```              | SLP3: Chapter 12|                |          |              |                                                                                   |                                                                          |                 |              |
+| **Dec 1**  | **Industry Speaker**; ```guest lecturer```              | |                |    |              |                                                                                   |                                                                          |                 |              |
 | **Dec 8** | **Project Presentations**                   |                                                                                    |                                                                          |       |              |
 | **Dec 15** | **Final paper Due**                   |                                                                                    |                                                                          |  ```final paper due```     |              |
 
