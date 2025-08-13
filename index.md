@@ -1,4 +1,4 @@
-# DATA0297: Deep Learning for Multimodal AI (Spring 2025)
+# DATA0297: Introduction to Natural Language Processing (Fall 2025)
 
 **Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
 **Industry Advisor:** Jeanie Cherng, Ph.D    
@@ -36,7 +36,7 @@
 ## Course Info (click below to expand)
 <details>
 <summary> Course description </summary>
-Artificial Intelligence (AI) employs a variety of modalities, including image, audio, and text to interact with the world around us. This course is designed to introduce students to the machine learning and deep learning techniques applied to data in multiple modalities. Students will gain a broad understanding of how these techniques are being applied to domain-specific problems ranging from computer vision to natural language processing to audio and music understanding. Students will gain hands-on experience implementing AI algorithms and building AI systems using popular ML tools and frameworks such as PyTorch and Tensorflow/Keras. The skills learned in this course will be valuable for career paths in various industries with a diverse product portfolio. Prerequisites: proficient in python coding; familiarity with probability, linear algebra and calculus (Spring)
+NLP is now at the center of AI, data science and data analytics. There is a wealth of textual data online. NLP-enabled products constitute an essential part of everyday life, both in consumer facing products (Siri, Alexa, ChatGPT, Google Translate, etc.) and B2B applications (e.g., NLP for medical and legal domains). However, understanding human languages and extracting structured information from this plethora of unstructured text data is a major challenge for computers. The recent advancement in machine learning and deep learning makes NLP one of the fastest growing fields in AI and data science. In this course, we will survey machine learning (ML) based NLP techniques from statistical ML approaches to the state-of-the-art (SOTA) deep learning models and Large Language Models (LLMs), with a focus on building a solid understanding of the history and theory of NLP that led to the current LLMs. Students will read the latest research papers, implement NLP algorithms or train/fine-tune deep learning/LLM models for a variety of NLP tasks, as well as completing a final project and research paper on a topic of their interest.
 
 </details>
 
