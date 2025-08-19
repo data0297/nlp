@@ -19,7 +19,7 @@
 > 
 > **[Notes on homework]** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
 >
-> 
+> **Aug 18:** GitHub repo is at https://github.com/Tufts-University/NLP-Fall25. Please send me your github username so I can give you access.
 > 
 > **July 15:** Final project rules posted [here](final-proj.md).
 >
@@ -79,7 +79,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 - [Final project rules](final-proj.md)
 - [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_Jan25.pdf)
 - [Course Canvas](https://canvas.tufts.edu/courses/67839)
-- [Course GitHub](https://github.com/data0297/nlp)
+- [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
 
 
