@@ -58,7 +58,7 @@
   color: #000; 
   padding: 10px 15px; "
 >
- <span style="font-weight:bold;">July 15:</span> Final project rules posted [here](final-proj.md).
+ <span style="font-weight:bold;">July 15:</span> Final project rules posted below.
  </blockquote>
 <blockquote style="
   border-left: 6px solid #118fcf; 
