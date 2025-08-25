@@ -93,7 +93,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 
 ## Schedule
 
-| Date                          | Topic|Slides| Readings  | Assignment| Presentation | Notes|
+| **Date**                          | **Topic**|**Slides**| **Readings**  | **Assignment**| **Presentation** | **Notes**|
 |------------|-----------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|--------------|----|
 | **Sep 1** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Labor Day)**              |             
 | **Sep 8** | **Introduction**           | [Slides](https://tufts.app.box.com/file/1304995840257?s=tu41828b9wi18h0vhkid727ki0ubfnqg ) | [Working with text in Python3](https://people.cs.georgetown.edu/nschneid/cosc572/s23/02_py-notes.html) <br> SLP3 2.1-2.3,3.1-3.3<br>[NLTK Book3](https://www.nltk.org/book/ch03.html) |        student background survey         |              |
