@@ -1,4 +1,4 @@
-# DATA0297: Natural Language Processing (Fall 2025)
+# DATA0297: Introduction to Natural Language Processing (Fall 2025)
 
 **Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
 **Industry Advisor:** Jeanie Cherng, Ph.D    
@@ -19,7 +19,7 @@
 > 
 > **[Notes on homework]** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
 >
-> 
+> **Aug 18:** GitHub repo is at https://github.com/Tufts-University/NLP-Fall25. Please send me your github username so I can give you access.
 > 
 > **July 15:** Final project rules posted [here](final-proj.md).
 >
@@ -67,7 +67,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 | **Nov 10** | **Large Language Models (LLM)** | [slides] |     SLP3: Chapter 10       |        HW11.1 out         |            |
 | **Nov 17** | **BERT, GPT, T5**                      | [Slides] | SLP3:Chapter 11             |     ```HW11.1 due```  |              |
 | **Nov 24**  | **SOTA LLMs and AI agents**                     | [Slides] | SLP3: Chapter 12               |                 |              |
-| **Dec 1**  | **Industry Speaker**; ```guest lecturer```              | SLP3: Chapter 12|                |          |              |                                                                                   |                                                                          |                 |              |
+| **Dec 1**  | **Industry Speaker**; ```guest lecturer```              | |                |    |              |                                                                                   |                                                                          |                 |              |
 | **Dec 8** | **Project Presentations**                   |                                                                                    |                                                                          |       |              |
 | **Dec 15** | **Final paper Due**                   |                                                                                    |                                                                          |  ```final paper due```     |              |
 
@@ -80,7 +80,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 - [Final project rules](final-proj.md)
 - [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_Jan25.pdf)
 - [Course Canvas](https://canvas.tufts.edu/courses/67839)
-- [Course GitHub](https://github.com/data0297/nlp)
+- [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
 
 
