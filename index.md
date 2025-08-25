@@ -22,7 +22,7 @@
   padding: 10px 15px; 
   ">
   
-**[Note on this website]**: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
+<span style="font-weight:bold;">[Note on this website]</span>: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
 </blockquote>
 
 
@@ -33,15 +33,40 @@
   padding: 10px 15px; "
 >
 
-**[Notes on Slides]:** Slides links will be updated throughout the term.
+<span style="font-weight:bold;">[Notes on Slides]:</span> Slides links will be updated throughout the term.
+</blockquote>
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
  
- **[Notes on homework]** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
-
- **Aug 18:** GitHub repo is at https://github.com/Tufts-University/NLP-Fall25. Please send me your github username so I can give you access.
-
- **July 15:** Final project rules posted [here](final-proj.md).
-
- **July 14:** Welcome to DATA0297! Full syllabus PDF available below.
+ <span style="font-weight:bold;">[Notes on homework]</span> Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
+ </blockquote>
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ <span style="font-weight:bold;">Aug 18:</span> GitHub repo is at https://github.com/Tufts-University/NLP-Fall25. Please send me your github username so I can give you access.
+ </blockquote>
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ <span style="font-weight:bold;">July 15:</span> Final project rules posted [here](final-proj.md).
+ </blockquote>
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ <span style="font-weight:bold;">July 14:</span> Welcome to DATA0297! Full syllabus PDF available below.
 </blockquote>
 
 
