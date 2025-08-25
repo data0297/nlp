@@ -1,8 +1,8 @@
 # DATA0297: Introduction to Natural Language Processing (Fall 2025)
 
 **Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
-**Industry Advisor:** Jeanie Cherng, Ph.D    
 **Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
+**Industry Advisor:** Jeanie Cherng, Ph.D    
 **Time:** Mondays 6:00–9:00pm  
 **Location:** Tisch Library 316, Medford campus, Tufts University      
 **Office Hours:** Mondays 5:00–6:00pm (JCC 525) or by appointment (Zoom)
