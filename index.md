@@ -20,9 +20,18 @@
   background-color: #f0f0f0; 
   color: #000; 
   padding: 10px 15px; 
-  margin: 10px 0;">
+  ">
   
-  **[Note on this website]**: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
+**[Note on this website]**: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
+</blockquote>
+
+
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
 
 **[Notes on Slides]:** Slides links will be updated throughout the term.
  
