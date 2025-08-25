@@ -50,7 +50,7 @@
   color: #000; 
   padding: 10px 15px; "
 >
- <span style="font-weight:bold;">Aug 18:</span> GitHub repo is at <a https://github.com/Tufts-University/NLP-Fall25>here</a>. Please send me your github username so I can give you access.
+ <span style="font-weight:bold;">Aug 18:</span> GitHub repo link is posted below (Course GitHub). Please send me your github username so I can give you access.
  </blockquote>
 <blockquote style="
   border-left: 6px solid #118fcf; 
