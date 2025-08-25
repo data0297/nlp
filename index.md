@@ -13,20 +13,27 @@
 
 ## Announcements
 
-> **[Note on this website]**: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
-> 
-> **[Notes on Slides]:** Slides links will be updated throughout the term.
-> 
-> **[Notes on homework]** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
->
-> **Aug 18:** GitHub repo is at https://github.com/Tufts-University/NLP-Fall25. Please send me your github username so I can give you access.
-> 
-> **July 15:** Final project rules posted [here](final-proj.md).
->
-> **July 14:** Welcome to DATA0297! Full syllabus PDF available below.
->
- 
 
+
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; 
+  margin: 10px 0;">
+  
+  **[Note on this website]**: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
+
+**[Notes on Slides]:** Slides links will be updated throughout the term.
+ 
+ **[Notes on homework]** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
+
+ **Aug 18:** GitHub repo is at https://github.com/Tufts-University/NLP-Fall25. Please send me your github username so I can give you access.
+
+ **July 15:** Final project rules posted [here](final-proj.md).
+
+ **July 14:** Welcome to DATA0297! Full syllabus PDF available below.
+</blockquote>
 
 
 
