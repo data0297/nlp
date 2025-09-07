@@ -118,7 +118,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 
 - [Course syllabus (PDF)](DATA0297_syllabus_NLP.pdf) 
 - [Final project rules](final-proj.md)
-- [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_Jan25.pdf)
+- [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf )
 - [Course Canvas](https://canvas.tufts.edu/courses/67839)
 - [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
