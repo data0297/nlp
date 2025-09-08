@@ -5,7 +5,7 @@
 **Industry Advisor:** Jeanie Cherng, Ph.D    
 **Time:** Mondays 6:00–9:00pm  
 **Location:** Tisch Library 316, Medford campus, Tufts University      
-**Office Hours:** Mondays 5:00–6:00pm (JCC 525) or by appointment (Zoom)
+**Office Hours:** Mondays 4:00–5:00pm (JCC 525) or by appointment (Zoom)
 
 ---
 
@@ -52,14 +52,7 @@
 >
  <span style="font-weight:bold;">Aug 18:</span> GitHub repo link is posted below (Course GitHub). Please send me your github username so I can give you access.
  </blockquote>
-<blockquote style="
-  border-left: 6px solid #118fcf; 
-  background-color: #f0f0f0; 
-  color: #000; 
-  padding: 10px 15px; "
->
- <span style="font-weight:bold;">July 15:</span> Final project rules posted below.
- </blockquote>
+
 <blockquote style="
   border-left: 6px solid #118fcf; 
   background-color: #f0f0f0; 
