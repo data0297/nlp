@@ -45,6 +45,18 @@
  
  <span style="font-weight:bold;">[Notes on homework]</span> Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
  </blockquote>
+
+
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ <span style="font-weight:bold;">Sep 15:</span> Assignment and presentation workflow is posted belo under Resources, including team assignments.
+ </blockquote>
+
+
 <blockquote style="
   border-left: 6px solid #118fcf; 
   background-color: #f0f0f0; 
@@ -91,10 +103,10 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 |------------|-----------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|--------------|----|
 | **Sep 1** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Labor Day)**              |             
 | **Sep 8** | **Introduction; Language Modeling**           | [Slides](https://tufts.box.com/s/17vbxq2h3ksha21hu2vmhz8paryxrmut ) | [Working with text in Python3](https://people.cs.georgetown.edu/nschneid/cosc572/s23/02_py-notes.html) <br> SLP3 2.1-2.3,3.1-3.3<br>[NLTK Book3](https://www.nltk.org/book/ch03.html) |        student background survey   <span style="color:#8a0317;font-weight:600"> survey due 9/12</span>      |              |
-| **Sep 15** |  **Machine Learning, Naive Bayes**       | [Slides] |[NB;](https://web.stanford.edu/~jurafsky/slp3/B.pdf) [Logistic regression](https://web.stanford.edu/~jurafsky/slp3/4.pdf)                  | HW2.1 Out;   |    |team assignment; homework logistics; github intro
+| **Sep 15** |  **Machine Learning, Naive Bayes**       | continue from last time |[NB;](https://web.stanford.edu/~jurafsky/slp3/B.pdf) [Logistic regression](https://web.stanford.edu/~jurafsky/slp3/4.pdf)                  | HW2.1 Out;   |    |team assignment; homework logistics; github intro
 | **Sep 22**  | **Logistic Regression, Deep Neural Networks**        | [Slides] | [DNN](https://web.stanford.edu/~jurafsky/slp3/6.pdf)   |         HW4.1 out        |              |
 | **Sep 29** |**Word Vectors and Embeddings**      | [Slides] | [Word embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf)   | HW5.1 out; <span style="color:#8a0317;font-weight:600"> HW2.1 Due </span>         |              | DNN software: Tensorflow Keras
-| **Oct 6** | **Sequence Labeling, RNN; LSTM; Attention**;      | [Slides]| [RNN;LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf)            | HW6.1 out; <span style="color:#8a0317;font-weight:600"> HW4.1 due </span>      |               |
+| **Oct 6** | **Sequence Labeling, RNN; LSTM; Attention**;      | [Slides]| [RNN;LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf)            | HW6.1 out;      |               |
 | **Oct 13** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Indigenous People's Day)**              |                                                                                    |                                                                          |                 |              |
 | **Oct 20** | **Self-attention and Transformer**     <span style="color:#8a0317;font-weight:600"> Zoom class </span>            | [Slides] | [Transformer](https://web.stanford.edu/~jurafsky/slp3/8.pdf)                | HW9.1 out; <span style="color:#8a0317;font-weight:600"> HW4.1-6.1 due </span>        |              |
 | **Oct 27**  | **Tufts HPC; Linguistics;**  <span style="color:#8a0317;font-weight:600"> guest lecturer </span>                   | [Slides] |              |      <span style="color:#8a0317;font-weight:600"> HW9.1 due </span>           |              |
@@ -116,7 +128,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 - [Course Canvas](https://canvas.tufts.edu/courses/67839)
 - [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
-
+- [Assignment & presentation workflow](teams.md)
 
 
 
