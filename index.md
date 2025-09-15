@@ -1,11 +1,12 @@
 # DATA0297: Introduction to Natural Language Processing (Fall 2025)
 
 **Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
-**Industry Advisor:** Jeanie Cherng, Ph.D    
 **Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
+**Industry Advisor:** Jeanie Cherng, Ph.D    
+**Research Assistant:** Ishmam Khan        
 **Time:** Mondays 6:00–9:00pm  
 **Location:** Tisch Library 316, Medford campus, Tufts University      
-**Office Hours:** Mondays 5:00–6:00pm (JCC 525) or by appointment (Zoom)
+**Office Hours:** Mondays 4:00–5:00pm (JCC 525) or by appointment (Zoom)
 
 ---
 
@@ -13,19 +14,54 @@
 
 ## Announcements
 
-> **[Note on this website]**: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
-> 
-> **[Notes on Slides]:** Slides links will be updated throughout the term.
-> 
-> **[Notes on homework]** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
->
-> **Aug 18:** GitHub repo is at https://github.com/Tufts-University/NLP-Fall25. Please send me your github username so I can give you access.
-> 
-> **July 15:** Final project rules posted [here](final-proj.md).
->
-> **July 14:** Welcome to DATA0297! Full syllabus PDF available below.
+
+
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; 
+  ">
+  
+<span style="font-weight:bold;">[Note on this website]</span>: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
+</blockquote>
+
+
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
 >
 
+<span style="font-weight:bold;">[Notes on Slides]:</span> Slides links will be updated throughout the term.
+</blockquote>
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ 
+ <span style="font-weight:bold;">[Notes on homework]</span> Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
+ </blockquote>
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ <span style="font-weight:bold;">Aug 18:</span> GitHub repo link is posted below (Course GitHub). Please send me your github username so I can give you access.
+ </blockquote>
+
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ <span style="font-weight:bold;">July 14:</span> Welcome to DATA0297! Full syllabus PDF available below.
+</blockquote>
 
 
 
@@ -51,25 +87,24 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 
 ## Schedule
 
-| Date                          | Topic|Slides| Readings  | Assignment| Presentation | Notes|
+| **Date**                          | **Topic**|**Slides**| **Readings**  | **Assignment**| **Presentation** | **Notes**|
 |------------|-----------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|--------------|----|
-| **Sep 1** | **```No Class``` (Labor Day)**              |             
-| **Sep 8** | **Introduction**           | [Slides](https://tufts.app.box.com/file/1304995840257?s=tu41828b9wi18h0vhkid727ki0ubfnqg ) | [Working with text in Python3](https://people.cs.georgetown.edu/nschneid/cosc572/s23/02_py-notes.html) <br> SLP3 2.1-2.3,3.1-3.3<br>[NLTK Book3](https://www.nltk.org/book/ch03.html) |        student background survey         |              |
-| **Sep 15** | **Language Modeling**        | [Slides] | SLP3:3.1-3.6                   | HW2.1 Out; ```survey due```|    |team assignment; homework logistics; github intro
-| **Sep 22**  | **Machine Learning, Naive Bayes**        | [Slides] | SLP3:Chapter 4   |         HW4.1 out        |              |
-| **Sep 29** | **Logistic Regression, Deep Neural Networks**    | [Slides] |     SLP3:Chapter 5&7       | HW5.1 out; ```HW2.1 Due```         |              | DNN software: Tensorflow Keras
-| **Oct 6** | **Word Vectors and Embeddings**     | [Slides]| SLP3:Chapter 6            | HW6.1 out; ```HW4.1 due```      |              |
-| **Oct 13** | **```No Class``` (Indigenous People's Day)**              |                                                                                    |                                                                          |                 |              |
-| **Oct 20** | **Sequence Labeling, RNN; LSTM; Attention**;     ```Zoom class```            | [Slides] | SLP3: Chapter 8                  | HW9.1 out; ```HW4.1-6.1 due```        |              |
-| **Oct 27**  | **Tufts HPC; Linguistics;**  ```guest lecturer```                   | [Slides] |              |      ```HW9.1 due```           |              |
-| **Nov 3** | **Self-attention and Transformer**                    | [Slides] | SLP3:Chapter 9                | ```final project proposal due```       |              |
-| **Nov 10** | **Large Language Models (LLM)** | [slides] |     SLP3: Chapter 10       |        HW11.1 out         |            |
-| **Nov 17** | **BERT, GPT, T5**                      | [Slides] | SLP3:Chapter 11             |     ```HW11.1 due```  |              |
-| **Nov 24**  | **SOTA LLMs and AI agents**                     | [Slides] | SLP3: Chapter 12               |                 |              |
-| **Dec 1**  | **Industry Speaker**; ```guest lecturer```              | |                |    |              |                                                                                   |                                                                          |                 |              |
+| **Sep 1** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Labor Day)**              |             
+| **Sep 8** | **Introduction; Language Modeling**           | [Slides](https://tufts.box.com/s/17vbxq2h3ksha21hu2vmhz8paryxrmut ) | [Working with text in Python3](https://people.cs.georgetown.edu/nschneid/cosc572/s23/02_py-notes.html) <br> SLP3 2.1-2.3,3.1-3.3<br>[NLTK Book3](https://www.nltk.org/book/ch03.html) |        student background survey   <span style="color:#8a0317;font-weight:600"> survey due 9/12</span>      |              |
+| **Sep 15** |  **Machine Learning, Naive Bayes**       | [Slides] |[NB;](https://web.stanford.edu/~jurafsky/slp3/B.pdf) [Logistic regression](https://web.stanford.edu/~jurafsky/slp3/4.pdf)                  | HW2.1 Out;   |    |team assignment; homework logistics; github intro
+| **Sep 22**  | **Logistic Regression, Deep Neural Networks**        | [Slides] | [DNN](https://web.stanford.edu/~jurafsky/slp3/6.pdf)   |         HW4.1 out        |              |
+| **Sep 29** |**Word Vectors and Embeddings**      | [Slides] | [Word embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf)   | HW5.1 out; <span style="color:#8a0317;font-weight:600"> HW2.1 Due </span>         |              | DNN software: Tensorflow Keras
+| **Oct 6** | **Sequence Labeling, RNN; LSTM; Attention**;      | [Slides]| [RNN;LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf)            | HW6.1 out; <span style="color:#8a0317;font-weight:600"> HW4.1 due </span>      |               |
+| **Oct 13** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Indigenous People's Day)**              |                                                                                    |                                                                          |                 |              |
+| **Oct 20** | **Self-attention and Transformer**     <span style="color:#8a0317;font-weight:600"> Zoom class </span>            | [Slides] | [Transformer](https://web.stanford.edu/~jurafsky/slp3/8.pdf)                | HW9.1 out; <span style="color:#8a0317;font-weight:600"> HW4.1-6.1 due </span>        |              |
+| **Oct 27**  | **Tufts HPC; Linguistics;**  <span style="color:#8a0317;font-weight:600"> guest lecturer </span>                   | [Slides] |              |      <span style="color:#8a0317;font-weight:600"> HW9.1 due </span>           |              |
+| **Nov 3** | **Large Language Models (LLM)**                 | [Slides] | SLP3:Chapter 9                | <span style="color:#8a0317;font-weight:600"> final project proposal due </span>       |              |
+| **Nov 10** |**BERT, GPT, T5**   | [slides] |     SLP3: Chapter 10       |        HW11.1 out         |            |
+| **Nov 17** |   **SOTA LLMs and AI agents**                      | [Slides] | SLP3:Chapter 11             |     <span style="color:#8a0317;font-weight:600"> HW11.1 due </span>  |              |
+| **Nov 24**  |  **NLP applications**                 | [Slides] | SLP3: Chapter 12               |                 |              |
+| **Dec 1**  | **Industry Speaker**; <span style="color:#8a0317;font-weight:600"> guest lecturer </span>              | |                |    |              |                                                                                   |                                                                          |                 |              |
 | **Dec 8** | **Project Presentations**                   |                                                                                    |                                                                          |       |              |
-| **Dec 15** | **Final paper Due**                   |                                                                                    |                                                                          |  ```final paper due```     |              |
-
+| **Dec 15** | **Final paper Due**                   |                                                                                    |                                                                          |  <span style="color:#8a0317;font-weight:600"> final paper due </span>     |              |
 
 ---
 
@@ -77,7 +112,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 
 - [Course syllabus (PDF)](DATA0297_syllabus_NLP.pdf) 
 - [Final project rules](final-proj.md)
-- [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_Jan25.pdf)
+- [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf )
 - [Course Canvas](https://canvas.tufts.edu/courses/67839)
 - [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
