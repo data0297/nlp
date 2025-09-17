@@ -31,7 +31,7 @@
 ## Teams
 Team leads are responsible for guiding the discussions of the assignment during team meetings and organizing the presentations. 
 
-- Team A: Emma Virnelli (Lead), Caleb Deitch, Bichen Tang
+- Team A: Emma Virnelli (Lead), Caleb Deitch, Bichen Tang, Geneva Yang
 
 - Team B:  Jingwen Feng(Lead), Maida Raza, Luodingyi Huang, Qingzhu Zhao
 
