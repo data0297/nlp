@@ -115,15 +115,15 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 | **Sep 8** | **Introduction; Language Modeling**           | [Slides](https://tufts.box.com/s/17vbxq2h3ksha21hu2vmhz8paryxrmut ) | [Working with text in Python3](https://people.cs.georgetown.edu/nschneid/cosc572/s23/02_py-notes.html) <br> SLP3 2.1-2.3,3.1-3.3<br>[NLTK Book3](https://www.nltk.org/book/ch03.html) |        student background survey   <span style="color:#8a0317;font-weight:600"> survey due 9/12</span>      |              |
 | **Sep 15** |  **Machine Learning, Naive Bayes**       | continue from last time |[NB;](https://web.stanford.edu/~jurafsky/slp3/B.pdf) [Logistic regression](https://web.stanford.edu/~jurafsky/slp3/4.pdf)                  | HW2.1 Out;   |    |team assignment; homework logistics; github intro
 | **Sep 22**  | **Logistic Regression, Deep Neural Networks**        | [Slides](https://tufts.box.com/s/cuolqanc70oja979008es9zeh1w7n1yd) | [DNN](https://web.stanford.edu/~jurafsky/slp3/6.pdf)   |         HW4.1 out        |              |
-| **Sep 29** |**Word Vectors and Embeddings**      | [Slides] | [Word embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf)   | HW5.1 out; <span style="color:#8a0317;font-weight:600"> HW2.1 Due </span>         |              | DNN software: Tensorflow Keras
-| **Oct 6** | **Sequence Labeling, RNN; LSTM; Attention**;      | [Slides]| [RNN;LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf)            | HW9.1 out; <span style="color:#8a0317;font-weight:600"> HW4.1-5.1 due </span>      |               |
+| **Sep 29** |**Word Vectors and Embeddings**      | [Slides] | [Word embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf)   | HW5.1 out; <span style="color:#8a0317;font-weight:600"> HW2.1 Due </span>         |  code review2.1: Team A            | DNN software: Tensorflow Keras
+| **Oct 6** | **Sequence Labeling, RNN; LSTM; Attention**;      | [Slides]| [RNN;LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf)            | HW9.1; <span style="color:#8a0317;font-weight:600"> HW4.1-5.1 due </span> out    |      code review4.1-5.1: Team B;         | Talk about final project rules
 | **Oct 13** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Indigenous People's Day)**              |                                                                                    |                                                                          |                 |              |
-| **Oct 20** | **Self-attention and Transformer**     <span style="color:#8a0317;font-weight:600"> Zoom class </span>            | [Slides] | [Transformer](https://web.stanford.edu/~jurafsky/slp3/8.pdf)                |   <span style="color:#8a0317;font-weight:600"> HW9.1 due </span>       |              |
-| **Oct 27**  | **Tufts HPC; Linguistics;**  <span style="color:#8a0317;font-weight:600"> guest lecturer </span>                   | [Slides] |              |               |              |
-| **Nov 3** | **Large Language Models (LLM)**                 | [Slides] | SLP3:Chapter 9                | <span style="color:#8a0317;font-weight:600"> final project proposal due </span>       |              |
-| **Nov 10** |**BERT, GPT, T5**   | [slides] |     SLP3: Chapter 10       |        HW11.1 out         |            |
-| **Nov 17** |   **SOTA LLMs and AI agents**                      | [Slides] | SLP3:Chapter 11             |     <span style="color:#8a0317;font-weight:600"> HW11.1 due </span>  |              |
-| **Nov 24**  |  **NLP applications**                 | [Slides] | SLP3: Chapter 12               |                 |              |
+| **Oct 20** | **Self-attention and Transformer**     <span style="color:#8a0317;font-weight:600"> Zoom class </span>            | [Slides] | [Transformer](https://web.stanford.edu/~jurafsky/slp3/8.pdf)                |         |       Paper R1: Team D      |
+| **Oct 27**  | **Tufts HPC; Linguistics;**  <span style="color:#8a0317;font-weight:600"> guest lecturer </span>                   | [Slides] |              |     <span style="color:#8a0317;font-weight:600"> HW9.1 due </span>            |              |
+| **Nov 3** | **Large Language Models (LLM)**                 | [Slides] | SLP3:Chapter 9                | <span style="color:#8a0317;font-weight:600"> final project proposal due </span>       | code review9.1: Team C; Paper R3: Team A    |
+| **Nov 10** |**BERT, GPT, T5**   | [slides] |     SLP3: Chapter 10       |        HW11.1 out         |    Paper R2: Team B        |
+| **Nov 17** |   **SOTA LLMs and AI agents**                      | [Slides] | SLP3:Chapter 11             |     <span style="color:#8a0317;font-weight:600"> HW11.1 due </span>  |   code review11.1: Team D           |
+| **Nov 24**  |  **NLP applications**                 | [Slides] | SLP3: Chapter 12               |                 |     Paper R4: Team C         |
 | **Dec 1**  | **Industry Speaker**; <span style="color:#8a0317;font-weight:600"> guest lecturer </span>              | |                |    |              |                                                                                   |                                                                          |                 |              |
 | **Dec 8** | **Project Presentations**                   |                                                                                    |                                                                          |       |              |
 | **Dec 15** | **Final paper Due**                   |                                                                                    |                                                                          |  <span style="color:#8a0317;font-weight:600"> final paper due </span>     |              |
@@ -139,7 +139,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 - [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
 - [Assignment & presentation workflow](teams.md)
-
+- [Research paper readings](readings.md)
 
 
 ---
