@@ -46,6 +46,14 @@
  <span style="font-weight:bold;">[Notes on homework]</span> Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
  </blockquote>
 
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ <span style="font-weight:bold;">Sep 22:</span> Research paper readings and code review presentation schedule posted. Please see the Resources section for the reading presentation list. 
+ </blockquote>
 
 <blockquote style="
   border-left: 6px solid #118fcf; 
