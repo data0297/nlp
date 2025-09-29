@@ -6,7 +6,7 @@
 **Research Assistant:** Ishmam Khan        
 **Time:** Mondays 6:00–9:00pm  
 **Location:** Tisch Library 316, Medford campus, Tufts University      
-**Office Hours:** Mondays 4:00–5:00pm (JCC 525) or by appointment (Zoom)
+**Office Hours:** Mondays 4:00–5:00pm (JCC 684) or by appointment (Zoom)
 
 ---
 
