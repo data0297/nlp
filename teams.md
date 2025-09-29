@@ -75,3 +75,8 @@ git pull
 ```
 ### other git resources
 - [comprehensive github tutorial](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+
+### last resort
+Using git on the command line in your terminal is the correct way. However, for whatever reason, if you cannot make this work, you can also click download zip from github.com to download the assignment, and after you finished your assignment, you can click to upload files onto github.com directly (must be into your branch still, not the main branch) on the website. This way is the shortcut which is a set of operations that can be completed by clicking things on github.com website only without using git on your command line. It is not recommended but can be used as a last resort if you cannot get the command line to work and are short on time. 
+
+An intermediate option is to use the GitHub Desktop , which is a GUI version of the git command line. I use it sometimes and it is very convenient. 
