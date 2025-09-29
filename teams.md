@@ -39,7 +39,14 @@ Team leads are responsible for guiding the discussions of the assignment during 
 
 - Team D: Allen Wu (Lead), Evelyn Sun, Ella Zhou, Kyle Ng
 
-## Useful Github commands
+## Useful Github commands and resources
+0. You set up github on your command line in your terminal on your computer. You can Google how to do this, but here is a place to start: [link](https://git-scm.com/downloads)
+1. First, you clone the course homework git repository onto your local computer in the terminal using `git clone` below. 
+2. Second, you must create your own branch, and work within your own branch on the homework. (see below)
+3. Third, after you edited your code and homework, you can use `git add` and `git commit`. You can do it every time you made progress and want to save the progress, you don't have to wait until you completed everything to add and commit. 
+4. Finally, when you are very cloe to the deadline (like 15 mins), you can do `git push` to the git remote (github.com) so that you are submitting your homework. Don't push your code early or other people will see it way before the deadline. 
+
+
 ```bash
 # clone the repo either using ssh or https
 git clone url/of/the/repo
@@ -47,13 +54,17 @@ git clone url/of/the/repo
 # to create your own branch, first send your GitHub username to the professor or team lead for authentication
 git checkout -b branch_name
 
+# to look at which files are being tracked now and check the status of your repo in your terminal 
+git status
+
 # to add your file for staging after it's been edited
 git add hw2-1.ipynb
 
+# after you added your file, check `git status` again to see which files are staged for committing now.
 # to commit locally
 git commit -m 'first submission' 
 
-# to push to remote 
+# to push to remote (wait until 10 mins before the dealine)
 git push 
 
 # to pull/merge the latest updates from the remote
@@ -62,3 +73,5 @@ git pull
 ## if you encounter an error message from git, read it carefully and follow the instructions to debug that. 
 ## it's a good practice to check the online repo (remote) to see that you actually successfully pushed your commits. 
 ```
+### other git resources
+- [comprehensive github tutorial](https://www.youtube.com/watch?v=tRZGeaHPoaw)
