@@ -2,7 +2,7 @@
 
 ## General
 
-- We have 14 students in the class, which will divide into 4 (3+3+4+4) teams. 
+- We have 14 students in the class, which will divide into 3 (5+5+4) teams. 
 - Each team has been assigned a team lead. 
 - Assignment and due date will be posted on Canvas, but you will be directed to the [GitHub repo](https://github.com/Tufts-University/NLP-course-fall2024/tree/main/HWs) main branch for the Jupyter Notebook. [^1]
 - Each person must create their own branch on the GitHub repo and only work from that branch. 
