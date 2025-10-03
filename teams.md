@@ -31,11 +31,9 @@
 ## Teams
 Team leads are responsible for guiding the discussions of the assignment during team meetings and organizing the presentations. 
 
-- Team A: Emma Virnelli (Lead), Caleb Deitch, Bichen Tang, Geneva Yang
+- Team Jacob: Emma Virnelli (Lead), Caleb Deitch, Bichen Tang, Geneva Yang, Harrison Chang
 
-- Team B:  Jingwen Feng(Lead), Maida Raza, Luodingyi Huang, Qingzhu Zhao
-
-- Team C: Matthew D Soto(Lead), Harrison Chang, Xiaoheng Zhou
+- Team B:  Jingwen Feng(Lead), Maida Raza, Luodingyi Huang, Qingzhu Zhao, Xiaoheng Zhou
 
 - Team D: Allen Wu (Lead), Evelyn Sun, Ella Zhou, Kyle Ng
 
