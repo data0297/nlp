@@ -134,7 +134,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 | **Nov 24**  |  **NLP applications**                 | [Slides] | SLP3: Chapter 12               |                 |     Paper R4: **Team D**         |
 | **Dec 1**  | **Industry Speaker**; <span style="color:#8a0317;font-weight:600"> guest lecturer </span>              | |                |    |              |                                                                                   |                                                                          |                 |              |
 | **Dec 8** | **Project Presentations**                   |                                                                                    |                                                                          |       |              |
-| **Dec 15** | **Final paper Due**                   |                                                                                    |                                                                          |  <span style="color:#8a0317;font-weight:600"> final paper due </span>     |              |
+| **Dec 13** | **Final paper Due**                   |                                                                                    |                                                                          |  <span style="color:#8a0317;font-weight:600"> final paper due </span>     |              |
 
 ---
 
