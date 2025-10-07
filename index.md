@@ -3,7 +3,7 @@
 **Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
 **Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
 **Industry Advisor:** Jeanie Cherng, Ph.D    
-**Research Assistant:** Ishmam Khan        
+**Research Assistant:** Ishmam Khan (Ishmam.Khan@tufts.edu)       
 **Time:** Mondays 6:00–9:00pm  
 **Location:** Tisch Library 316, Medford campus, Tufts University      
 **Office Hours:** Mondays 4:00–5:00pm (JCC 684) or by appointment (Zoom)
@@ -124,7 +124,7 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 | **Sep 15** |  **Machine Learning, Naive Bayes**       | continue from last time |[NB;](https://web.stanford.edu/~jurafsky/slp3/B.pdf) [Logistic regression](https://web.stanford.edu/~jurafsky/slp3/4.pdf)                  | HW2.1 Out;   |    |team assignment; homework logistics; github intro
 | **Sep 22**  | **Logistic Regression, Deep Neural Networks**        | [Slides](https://tufts.box.com/s/cuolqanc70oja979008es9zeh1w7n1yd) | [DNN](https://web.stanford.edu/~jurafsky/slp3/6.pdf)   |         HW4.1 out        |              |
 | **Sep 29** |**Word Vectors and Embeddings**      | [Slides](https://tufts.box.com/s/uli69mje9fqiym0zu6ho25rhphu7rd5u) | [Word embeddings](https://web.stanford.edu/~jurafsky/slp3/5.pdf); [w2v paper](https://arxiv.org/abs/1310.4546)  | HW5.1 out; <span style="color:#8a0317;font-weight:600"> HW2.1 Due </span>         |  code review2.1: **Team Jacob**          | Talk about final project rules
-| **Oct 6** | **Sequence Labeling, RNN; LSTM; Attention**;      | [Slides](https://tufts.box.com/s/8lgd1a1ptpwexx3fddjk3dl4r2jfoxvz)| [RNN;LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf)            | HW9.1 out;      |               |  DNN software: Tensorflow Keras tutorial (Ishmam)
+| **Oct 6** | **Sequence Labeling, RNN; LSTM; Attention**;      | [Slides](https://tufts.box.com/s/8lgd1a1ptpwexx3fddjk3dl4r2jfoxvz); [keras tutorial slides](https://docs.google.com/presentation/d/11500zRxme8y_dQcfhdXDgKu99z6zCRrSaoGAEoZJLgE/edit?usp=sharing)| [RNN;LSTM](https://web.stanford.edu/~jurafsky/slp3/13.pdf)            | HW9.1 out;      |               |  Tensorflow Keras tutorial (Ishmam)[[Colab]](https://colab.research.google.com/drive/13Ix6I2bELLYd6ZfWajj52SUGcnxeNxt0?usp=sharing)
 | **Oct 13** | **<span style="color:#8a0317;font-weight:600"> No Class </span> (Indigenous People's Day)**              |                                                                                    |                                                                          |          <span style="color:#8a0317;font-weight:600;background-color:#FAFA;"> HW4.1-5.1 due 10/14 6pm </span>       |              |
 | **Oct 20** | **Self-attention and Transformer**     <span style="color:#8a0317;font-weight:600"> Zoom class </span>            | [Slides] | [Transformer](https://web.stanford.edu/~jurafsky/slp3/8.pdf)                |         | code review4.1-5.1: **Team B**;        |
 | **Oct 27**  | **Tufts HPC; Linguistics;**  <span style="color:#8a0317;font-weight:600"> guest lecturer </span>                   | [Slides] |              |     <span style="color:#8a0317;font-weight:600"> HW9.1 due </span>            |              |
