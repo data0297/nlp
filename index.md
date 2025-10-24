@@ -148,6 +148,6 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
 - [Assignment & presentation workflow](teams.md)
 - [Research paper readings](readings.md)
-
+- [Guest lectures](guest-speaker.md)
 
 ---
