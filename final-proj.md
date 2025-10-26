@@ -27,12 +27,12 @@ No matter the type of project, in each project:
 
 You are welcome and encouraged to explore your own interest and find your own data sets or build a project around a problem you are interested in. If you have an idea you want to explore, talk to them with your peers and with the professor to develop them and search for relevant resources online to define a limited-scope, practical project to finish within 4-5 weeks. Here are some examples of papers you can read to get an idea of the range of topics NLP researchers are working on. 
 
-- next song prediction in playlist https://web.stanford.edu/class/cs224n/final-reports/final-report-169493994.pdf
-- NLP4DH (Digital Humanities): https://aclanthology.org/2022.nlp4dh-1.0.pdf
-- ACL workshops https://2023.aclweb.org/program/workshops/
-- List of final projects for Stanford 224n NLP with Deep Learning course https://web.stanford.edu/class/cs224n/project.html
+- [next song prediction in playlist](https://web.stanford.edu/class/cs224n/final-reports/final-report-169493994.pdf)
+- [NLP4DH (Digital Humanities)](https://aclanthology.org/2022.nlp4dh-1.0.pdf)
+- [ACL workshops](https://2023.aclweb.org/program/workshops/)
+- [List of final projects for Stanford 224n NLP with Deep Learning course](https://web.stanford.edu/class/cs224n/project.html)
 - Our readings R1-R4
-- https://colmweb.org/AcceptedPapers.html
+- [COLM](https://colmweb.org/AcceptedPapers.html)
 - [Example final papers from previous years](https://tufts.box.com/s/gymzxxq3bp9gogspf19q8hb126kxw9qj)
 
 ## Proposal
