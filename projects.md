@@ -1,0 +1,15 @@
+# Final projects proposed 11/3/25
+
+- Xiaoheng Zhou. **Domain-Specific Sentiment Classification with Classical and Prompt-based NLP Methods**.
+- Qingzhu Zhao. Long - **Form Emotionally Coherent Text-to-Music Generation via NLP
+Guided Prompt Planning**. 
+- Geneva Yang. **Can knowledge distillation effectively transfer complex entity tracking reasoning capabilities from large teacher models to small student models?**
+- Ella Zhou, Evelyn Sun. **Toxic Comment Detection on Wikipedia Talk Pages using Lightweight Transformer and Prompt-based Methods.**
+- Mida Raza. **Predicting Short-Term Stock Movement from News Headlines Using NLP.**  
+- Kyle Ng. **predict an NBA’s next on-ball movement or action using sequence modeling of player and ball movement data during possession.**
+- Luodingyi Huang. **Natural Language Processing Analysis and Application
+Research Based on Federal Reserve Chairman
+Powell's Press Releases.**
+- Jingwen Feng. **Pitch-Only Next-Note Prediction.**
+- Emma Virnelli and Caleb Deitch. **An NLP Analysis of Gendered Linguistic Styles in Nature Writing.**
+

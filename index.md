@@ -149,5 +149,6 @@ To adapt to the rapidly evolving field of NLP, this course is designed to simula
 - [Assignment & presentation workflow](teams.md)
 - [Research paper readings](readings.md)
 - [Guest lectures](guest-speaker.md)
+- [Proposed final projects](projects.md)
 
 ---
