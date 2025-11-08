@@ -5,7 +5,7 @@
 Guided Prompt Planning.** 
 - Geneva Yang. **Can knowledge distillation effectively transfer complex entity tracking reasoning capabilities from large teacher models to small student models?**
 - Ella Zhou, Evelyn Sun. **Toxic Comment Detection on Wikipedia Talk Pages using Lightweight Transformer and Prompt-based Methods.**
-- Mida Raza. **Predicting Short-Term Stock Movement from News Headlines Using NLP.**  
+- Maida Raza. **Predicting Short-Term Stock Movement from News Headlines Using NLP.**  
 - Kyle Ng. **Predict an NBA’s next on-ball movement or action using sequence modeling of player and ball movement data during possession.**
 - Luodingyi Huang. **Natural Language Processing Analysis and Application
 Research Based on Federal Reserve Chairman
