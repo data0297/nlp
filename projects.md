@@ -11,5 +11,5 @@ Guided Prompt Planning.**
 Research Based on Federal Reserve Chairman
 Powell's Press Releases.**
 - Jingwen Feng. **Pitch-Only Next-Note Prediction.**
-- Emma Virnelli and Caleb Deitch. **An NLP Analysis of Gendered Linguistic Styles in Nature Writing.**
+- Emma Virnelli, Caleb Deitch, Harrison Chang. **An NLP Analysis of Gendered Linguistic Styles in Nature Writing.**
 
