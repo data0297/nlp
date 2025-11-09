@@ -87,8 +87,8 @@ For final paper submission, please upload a pdf file of the paper to Canvas (I w
 
 ## Important dates
 
-11/07/2024 - project initial proposal due (after this date, we can still refine the proposal but the general topic and direction should not change too much)
+11/03/2025 - project initial proposal due (after this date, we can still refine the proposal but the general topic and direction should not change too much)
 
-12/09/2024 - last day of class, project presentation 
+12/08/2025 - last day of class, project presentation 
 
-12/18/2024 - final paper due
+12/13/2025 - final paper due
