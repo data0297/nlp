@@ -12,4 +12,5 @@ Research Based on Federal Reserve Chairman
 Powell's Press Releases.**
 - Jingwen Feng. **Pitch-Only Next-Note Prediction.**
 - Emma Virnelli, Caleb Deitch, Harrison Chang. **An NLP Analysis of Gendered Linguistic Styles in Nature Writing.**
+- Allen Wu. **Prompt latent visualization with UMAP and steering**.
 
