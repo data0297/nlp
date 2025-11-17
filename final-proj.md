@@ -17,6 +17,7 @@ There are several types of final project:
 No matter the type of project, in each project:
 
 - You must explore the use of a novel method that was not covered in this class, and this is something that you should do research on and learn about yourself. This could also be exploring a new task that was not covered in detail in class and explore methods to be applied to that task.
+- **NEW: You must include a comparison with LLM based approach, such as prompting or fine-tuning a LLM.**
 - The co-authors must each contribute at least one novel method to be used in this project and final paper
 - The paper should compare several methods/approaches to a simple baseline and report back the results.
 - You should have a limited scope to be able to finish within about 1 month.
@@ -72,7 +73,7 @@ In your proposal, you can cover some of these aspects but no need to cover all o
 - Result & discussion (Is there a thorough discussion on results and observations, error analysis , etc.?) (5)
 - In-class presentation (Does the in class presentation clearly discuss the motivation, problem formulation, data set, and proposed methods? ) (5)
 - Literature review (thoroughly review and explain relevant existing work in this domain) (5)
-- Technical Correctness (is the technical solution correct?) (5)
+- Technical Correctness (is the technical solution correct? did you include a novel method, and a LLM method?) (5)
 - Novelty/difficulty (how novel is this idea? How challenging is this project to pull off? This is correlated with how much work in put in. If you work on an easy problem, I expect you to put in more work, trying out more complicated methods, etc. But if you work on a hard problem, I can understand if you managed to get worse performance, or didn't have time to try out more complicated models ) (5)
 - Experimental Validation (is there sufficient experimental validation to support the main claim or conclusion?) (5)
 - Clarity of Writing (is the paper easily readable, can a reader easily understand what has been done? try to be specific about what you've done) (5)
